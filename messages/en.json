@@ -1,0 +1,35 @@
+{
+  "Common": {
+    "title": "AI Mystic",
+    "home": "Home",
+    "palm": "Palm Reading",
+    "tarot": "Tarot Reading",
+    "loading": "Consulting the spirits...",
+    "error": "The connection to the ethereal plane was lost. Try again."
+  },
+  "Home": {
+    "title": "Unlock Your Destiny",
+    "subtitle": "Ancient wisdom meets modern AI. Discover what your palm and the cards hold for your future.",
+    "startPalm": "Read My Palm",
+    "startTarot": "Read Tarot Cards"
+  },
+  "Palm": {
+    "title": "AI Palm Reader",
+    "instruction": "Upload a clear photo of your palm or use your camera.",
+    "capture": "Capture Photo",
+    "upload": "Upload Image",
+    "retake": "Retake",
+    "analyze": "Reveal My Fate",
+    "analyzing": "Analyzing lines and mounts...",
+    "results": "Your Reading"
+  },
+  "Tarot": {
+    "title": "Mystic Tarot",
+    "instruction": "Focus on your question and draw 3 cards.",
+    "draw": "Draw Cards",
+    "past": "Past",
+    "present": "Present",
+    "future": "Future",
+    "reveal": "Interpret Spread"
+  }
+}
