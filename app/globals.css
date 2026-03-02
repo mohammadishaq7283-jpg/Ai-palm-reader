@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-cinzel: 'Cinzel', serif;
+}
+
+body {
+  background-color: #1a0b2e;
+  color: #fff;
+}
+
+/* 3D Card Flip Utilities */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #1a0b2e; 
+}
+::-webkit-scrollbar-thumb {
+  background: #432c7a; 
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #764ba2; 
+}
+
+/* Markdown Styles */
+.prose h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-family: var(--font-cinzel);
+}
+.prose strong {
+  color: #ffd700;
+}
