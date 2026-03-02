@@ -1,0 +1,35 @@
+{
+  "Common": {
+    "title": "IA Mística",
+    "home": "Inicio",
+    "palm": "Lectura de Palma",
+    "tarot": "Lectura de Tarot",
+    "loading": "Consultando a los espíritus...",
+    "error": "La conexión con el plano etéreo se perdió. Inténtalo de nuevo."
+  },
+  "Home": {
+    "title": "Desbloquea Tu Destino",
+    "subtitle": "La sabiduría antigua se encuentra con la IA moderna. Descubre lo que tu palma y las cartas deparan para tu futuro.",
+    "startPalm": "Lee Mi Palma",
+    "startTarot": "Lee Cartas del Tarot"
+  },
+  "Palm": {
+    "title": "Lector de Palma IA",
+    "instruction": "Sube una foto clara de tu palma o usa tu cámara.",
+    "capture": "Capturar Foto",
+    "upload": "Subir Imagen",
+    "retake": "Retomar",
+    "analyze": "Revelar Mi Destino",
+    "analyzing": "Analizando líneas y montes...",
+    "results": "Tu Lectura"
+  },
+  "Tarot": {
+    "title": "Tarot Místico",
+    "instruction": "Concéntrate en tu pregunta y saca 3 cartas.",
+    "draw": "Sacar Cartas",
+    "past": "Pasado",
+    "present": "Presente",
+    "future": "Futuro",
+    "reveal": "Interpretar Tirada"
+  }
+}
