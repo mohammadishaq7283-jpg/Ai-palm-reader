@@ -1,0 +1,35 @@
+{
+  "Common": {
+    "title": "IA Mystique",
+    "home": "Accueil",
+    "palm": "Chiromancie",
+    "tarot": "Tarot",
+    "loading": "Consultation des esprits...",
+    "error": "La connexion avec le plan éthéré a été perdue. Réessayez."
+  },
+  "Home": {
+    "title": "Déverrouillez Votre Destin",
+    "subtitle": "La sagesse ancienne rencontre l'IA moderne. Découvrez ce que votre paume et les cartes réservent pour votre avenir.",
+    "startPalm": "Lire Ma Paume",
+    "startTarot": "Tirer le Tarot"
+  },
+  "Palm": {
+    "title": "Chiromancie IA",
+    "instruction": "Téléchargez une photo claire de votre paume ou utilisez votre appareil photo.",
+    "capture": "Prendre Photo",
+    "upload": "Télécharger Image",
+    "retake": "Reprendre",
+    "analyze": "Révéler Mon Sort",
+    "analyzing": "Analyse des lignes et des monts...",
+    "results": "Votre Lecture"
+  },
+  "Tarot": {
+    "title": "Tarot Mystique",
+    "instruction": "Concentrez-vous sur votre question et tirez 3 cartes.",
+    "draw": "Tirer les Cartes",
+    "past": "Passé",
+    "present": "Présent",
+    "future": "Futur",
+    "reveal": "Interpréter le Tirage"
+  }
+}
