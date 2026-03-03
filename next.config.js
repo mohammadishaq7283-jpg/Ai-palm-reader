@@ -1,7 +1,8 @@
 const createNextIntlPlugin = require('next-intl/plugin');
 
-// Yahan humne bata diya ke file src/i18n.ts hai
-const withNextIntl = createNextIntlPlugin('./src/i18n.ts');
+// IMPORTANT: Bracket ke andar kuch mat likhein. Khali rakhein ().
+// Next.js khud src/i18n/request.ts dhoond lega.
+const withNextIntl = createNextIntlPlugin();
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
